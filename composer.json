@@ -1,6 +1,6 @@
 {
   "autoload": {
-    "psr-4": {"FactoryKata\\": "src/"}
+    "psr-4": {"FactoryKatja\\": "src/iteration1/"}
   },
 
   "require-dev": {
